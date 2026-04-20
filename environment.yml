@@ -1,0 +1,6 @@
+name: teststore
+dependencies:
+  - python=3.13
+  - pip
+  - pip:
+      - pytest-playwright
