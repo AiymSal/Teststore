@@ -4,3 +4,4 @@ test-results/
 playwright-report/
 .idea
 auth_creds.md
+.vscode/
