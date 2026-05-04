@@ -5,3 +5,4 @@ playwright-report/
 .idea
 auth_creds.md
 .vscode/
+instr_to_run.md
